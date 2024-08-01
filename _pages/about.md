@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m currently a graduate student in Financial Mathematics at the University of Chicago. I recently graduated from the National University of Singapore with a double honors in Business Administration and Computing (IS). My Honors Thesis, "Beyond Borders- Exploring Maximal Extractable Value (“MEV”) and Risks in Cross-Domain CEX-DEX Arbitrage" was advised by Professor Ben Charoenwong and Dr Nicholas Garcia. My interests include fitness, travelling, and reading non-fiction.  <br> <br> 
+Hi! I’m currently a graduate student in Financial Mathematics at the University of Chicago. I recently graduated from the National University of Singapore with a double honors in Business Administration and Computing (IS). My Honors Thesis, "Beyond Borders- Exploring Maximal Extractable Value (“MEV”) and Risks in Cross-Domain CEX-DEX Arbitrage" was advised by Professor Ben Charoenwong and Dr Nicholas Garcia. My interests include fitness, travelling, and reading non-fiction. <br> <br> 
 Feel free to reach out and connect over a cup of coffee!
 
 
@@ -30,6 +30,7 @@ Experience
 **Genesis Global Trading (Subsidiary of Digital Currency Group)**, Trader Intern 
 * Developed real-time analytical tools for OTC trading in Dash to visualize market flows, improving quotes by an average of 10bps; bots to detect on-chain activities and data mining for real-time news alerts which were adopted across the firm
 * Created a trade blotter in React for derivatives pricing to asynchronously calculate Greeks, theoretical, current edges for futures and multi-legged options using the Black Scholes model and compare it with the in-house volatility surface
+* Pitched investment strategies to clients based on fundamental analysis (long beta with bitcoin, or naked exposure); P&L at 23% within a week
 
 
 **Paypal**, Data Modelling Intern 
@@ -44,16 +45,19 @@ Extracurriculars
 --------
 
 **NUS Fintech Society**, Director/Student Advisor
-* Led 73 students to focus on research and development projects * Organized inaugural NUS Fintech Month with over 500 participants, and partnerships with Ripple, 1inch, Bybit, Alphalab, AWS; Aided in fundraising from investors
+* Led 73 students to focus on research and development projects 
+* Organized the inaugural NUS Fintech Month with over 500 participants, and partnerships with Ripple, 1inch, Bybit, Alphalab, AWS; Aided in fundraising from investors
 * Presented at the Singapore Fintech Festival to mid-career professionals, interested in the blockchain space 
 
 **NUS Zero Waste Testbed Initiative**, Finance Lead
-* Led the initative organized by NUS and South West Community Development Council to create a marketing campaign that succesfully improved recycling contamination rates by 10%. 
+* Led the initative organized by NUS and South West Community Development Council to create a [marketing campaign](https://nus.edu.sg/zerowaste/whats-breaking-recycling-the-culprit-behind-lower-recycling-rates)that succesfully improved recycling contamination rates by 10%. 
+
 
 Relevant Courses
 ======
-* **ANALYTICS**: Analytics for Risk Management, Systematic Trading, Portfolio Management, Data Engineering, Data Analytics <br> 
-* **COM**: ML, Python, SQL, Java, Solidity, Javascript <br>
+--------
+* **DS**: Analytics for Risk Management, Systematic Trading, Portfolio Management, Data Engineering, Data Analytics <br> 
+* **COM**: ML, Python, SQL, Java, Solidity, Javascript, Data Structures and Algorithms <br>
 * **MATH**: Probability, Optimization, Regressions, Statistics, Calculus, Stochastic Processes and Modelling
 
 
