@@ -16,7 +16,7 @@ More Info: [GitHub Repository](https://github.com/ccwhgetgit/Covered-Interest-Pa
 ------
 The paper investigates Maximal Extractable Value (MEV) and the associated risks in cross-domain arbitrage between centralized exchanges (CEX) and decentralized exchanges (DEX). It provides a comprehensive analysis of the opportunities and challenges presented by MEV in the context of cross-domain trading, offering insights into the evolving landscape of the blockspace markets. <br/>
 
-More Info: [Research Post](https://ethresear.ch/t/empirical-analysis-of-cross-domain-cex-dex-arbitrage-on-ethereum/17620)
+More Info: [Research Post](https://ethresear.ch/t/empirical-analysis-of-cross-domain-cex-dex-arbitrage-on-ethereum/17620); [Github Repository](https://github.com/ccwhgetgit/HonorsThesis)
 
 **Credit Risk Management (Lending Club)**
 -----
