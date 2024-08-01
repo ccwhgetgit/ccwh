@@ -12,7 +12,7 @@ title                    : "Colin Chan"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://ccwhgetgit.github.io/ccwh/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ccwhgetgit.github.io/ccwh # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -187,10 +187,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
