@@ -30,7 +30,7 @@ Liquidity providers are currently incentivised to provide liquidity through the 
 liquidity, improving the overall trading experience. <br/>
 
 
-More Info: [Grant Information](https://www.dydxgrants.com/grants/lp-rewards-formula-optimization)
+More Info: [Grant Information](https://www.dydxgrants.com/grants/lp-rewards-formula-optimization); [Github Repository](https://github.com/ccwhgetgit/dYdX_LPRewardsOpt)
 
 
 **Portfolio Construction (School Project)**
