@@ -1,49 +1,77 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! I’m currently a graduate student in Financial Mathematics at the University of Chicago. I recently graduated from the National University of Singapore with a double honors in Business Administration and Computing (IS). My Honors Thesis, "Beyond Borders- Exploring Maximal Extractable Value (“MEV”) and Risks in Cross-Domain CEX-DEX Arbitrage" was advised by Professor Ben Charoenwong and Dr Nicholas Garcia. My interests include fitness, travelling, and reading non-fiction.  <br> <br> 
+Feel free to reach out and connect over a cup of coffee!
 
-A data-driven personal website
+
+Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+--------
+**Chaos Labs**, Economics & Risk Researcher
+* Back-tested the robustness of price oracles using historical data, statistically evaluated compositions using the Granger-Causality tests, and conducted Monte Carlo simulations to improve mechanism designs for trading and liquidations
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**Ripple**, Quantitative Trader Intern 
+* Analyzed order books and price data for FX and digital assets for transaction cost analysis to improve execution
+* Designed data pipelines to consume and process data, created bash scripts to deploy automated trading strategies, and enhanced code for monitoring of XRP repurchases across exchanges, which were implemented by the Markets team
 
-Getting started
+**Binance**, Macro Research Analyst Intern
+*	Published research reports on macro trends with a monthly viewership of over 100,000, performed data analysis, and prepared the Institutional Crypto Outlook Survey which involved over 200 global institutional investors 
+*	Monitored market news and led the Monthly Market Insights edition to visualize trends and movements 
+
+
+
+**Genesis Global Trading (Subsidiary of Digital Currency Group)**, Trader Intern 
+* Developed real-time analytical tools for OTC trading in Dash to visualize market flows, improving quotes by an average of 10bps; bots to detect on-chain activities and data mining for real-time news alerts which were adopted across the firm
+* Created a trade blotter in React for derivatives pricing to asynchronously calculate Greeks, theoretical, current edges for futures and multi-legged options using the Black Scholes model and compare it with the in-house volatility surface
+
+
+**Paypal**, Data Modelling Intern 
+* Part of the Enterprise Architecture Team, involved in data modelling and migration
+
+
+**Graticule Asset Management Asia**, Data Analyst Intern 
+* Created data pipelines and investment theses for discretionary trading and investments
+
+Extracurriculars
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+--------
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**NUS Fintech Society**, Director/Student Advisor
+* Led 73 students to focus on research and development projects * Organized inaugural NUS Fintech Month with over 500 participants, and partnerships with Ripple, 1inch, Bybit, Alphalab, AWS; Aided in fundraising from investors
+* Presented at the Singapore Fintech Festival to mid-career professionals, interested in the blockchain space 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**NUS Zero Waste Testbed Initiative**, Finance Lead
+* Led the initative organized by NUS and South West Community Development Council to create a marketing campaign that succesfully improved recycling contamination rates by 10%. 
 
-**Markdown generator**
+Relevant Courses
+======
+* **ANALYTICS**: Analytics for Risk Management, Systematic Trading, Portfolio Management, Data Engineering, Data Analytics <br> 
+* **COM**: ML, Python, SQL, Java, Solidity, Javascript <br>
+* **MATH**: Probability, Optimization, Regressions, Statistics, Calculus, Stochastic Processes and Modelling
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Awards/Competitions
+======
+--------
+
+* **Upcoming**: 2024 Akuna Virtual Quant Trading Challenge
+* **Ethereum Foundation RIG ($10,000) Grant**: Analysis of cross-domain CEX DEX arbitrages in the Ethereum ecosystem
+* **dYdX LP Rewards Optimization Grant ($20,000)**: Liquidity providers are incentivized through the LP Rewards pool, which distributes DYDX every epoch based on the scores calculated through the LP Rewards formula. Optimizing this formula to incentivize more efficient liquidity, with tighter spreads and quotes across all markets, will improve the trading experience for everyone on dYdX. 
+* **Hackathons (Combined ~$30,000)**: Crypto.com (1st), ETHGlobal (Top 5 NFT), NUS Fintech Month (2nd), Air Quality in Catalina Data Analysis (2nd), DEX Liquidity Challenge (2nd), NUS Venture Initiation Grant
+* **NUS Merit Scholarship**: Full tuition coverage, annual living allowance and one-time computer allowance for undergraduate studies 
+
+Military/National Service
+======
+--------
+
+* **Singapore Armed Force**: Basic Military Training for 3 months <br> 
+* **Singapore Police Force**: Graduated as a commissioned Inspector of Police and posted to Airport Police Division as Assistant Manpower Officer. Received the Commander's Commendation Award for outstanding contributions during the 2018 Trump-Kim Summit. 

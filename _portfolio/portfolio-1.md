@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Covered Interest Parity Deviations of Stablecoins"
+excerpt: "The market capitalization of stablecoins has surged from US$5 billion in 2019 to over US$180 billion in 2022. These blockchain-based assets emulate traditional currencies with unique stabilizing mechanisms. This study examines the efficacy of stablecoin mechanisms through covered interest parity (CIP), which suggests that interest rate differentials between currencies should align with forward and spot exchange rate differentials. <br/><img src='/images/cip.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+More Info: [GitHub Repository](https://github.com/ccwhgetgit/Covered-Interest-Parity-Deviations-Stablecoins)
+
+[Download PDF](/images/cip.pdf)
