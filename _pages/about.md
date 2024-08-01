@@ -71,6 +71,7 @@ Awards/Competitions
 --------
 * **NUS Merit Scholarship**: Full tuition coverage, annual living allowance and one-time computer allowance for undergraduate studies 
 * **Beta Gamma Sigma Honors Society**: Dean's List for 3 semesters
+* **Top Student for Information Technology in Financial Services**: Outstanding performance and placed among the top students
 * **Distinctions in Computing Focus Areas and Specialisation**: Received a grade of > 4.50 for 2 Computing Focus Areas and Distinction in Financial Technologies Specialisation
 * **Hackathons (Combined ~$30,000)**: Crypto.com (1st), ETHGlobal (Top 5 NFT), NUS Fintech Month (2nd), Air Quality in Catalina Data Analysis (2nd), DEX Liquidity Challenge (2nd), NUS Venture Initiation Grant
 
