@@ -12,7 +12,9 @@ title                    : "Colin Chan"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://colinchanwh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Colin Chan"
   bio              : "MSc Financial Mathematics @ UChicago"
-  location         : "Chicago, Illinois (United States)"
+  location         : "Chicago, Illinois (United Stats)"
   employer         : "University of Chicago"
   email            : "colinchanwh@uchicago.edu" 
 
@@ -156,6 +158,13 @@ kramdown:
 
 
 # Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  Research:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -178,10 +187,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _research
+  # _portfolio
   - scope:
       path: ""
-      type: research
+      type: portfolio
     values:
       layout: single
       author_profile: true
