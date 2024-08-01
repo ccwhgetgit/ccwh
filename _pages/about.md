@@ -40,6 +40,14 @@ Experience
 **Graticule Asset Management Asia**, Data Analyst Intern 
 * Created data pipelines and investment theses for discretionary trading and investments
 
+
+National Service
+======
+--------
+
+* **Singapore Armed Force**: Basic Military Training for 3 months <br> 
+* **Singapore Police Force**: Graduated as a commissioned Inspector of Police and posted to Airport Police Division as Assistant Manpower Officer. Received the Commander's Commendation Award for outstanding contributions during the 2018 Trump-Kim Summit. 
+
 Extracurriculars
 ======
 --------
@@ -50,7 +58,7 @@ Extracurriculars
 * Presented at the Singapore Fintech Festival to mid-career professionals, interested in the blockchain space 
 
 **NUS Zero Waste Testbed Initiative**, Finance Lead
-* Led the initative organized by NUS and South West Community Development Council to create a [marketing campaign](https://nus.edu.sg/zerowaste/whats-breaking-recycling-the-culprit-behind-lower-recycling-rates)that succesfully improved recycling contamination rates by 10%. 
+* Led the initative organized by NUS and South West Community Development Council to create a [marketing campaign](https://nus.edu.sg/zerowaste/whats-breaking-recycling-the-culprit-behind-lower-recycling-rates) that succesfully improved recycling contamination rates by 10%. 
 
 
 Relevant Courses
@@ -67,15 +75,16 @@ Awards/Competitions
 ======
 --------
 
-* **Upcoming**: 2024 Akuna Virtual Quant Trading Challenge
+<!-- * **Upcoming**: 2024 Akuna Virtual Quant Trading Challenge -->
+* **NUS Merit Scholarship**: Full tuition coverage, annual living allowance and one-time computer allowance for undergraduate studies 
+* **Beta Gamma Sigma Honors Society**: Dean's List for 3 
+semesters 
+* **Distinctions in Computing Focus Areas and Specialisation**: Received a grade of > 4.50 for 2 Computing Focus Areas and Distinction in Financial Technologies Specialisation
+* **Hackathons (Combined ~$30,000)**: Crypto.com (1st), ETHGlobal (Top 5 NFT), NUS Fintech Month (2nd), Air Quality in Catalina Data Analysis (2nd), DEX Liquidity Challenge (2nd), NUS Venture Initiation Grant
+
+Research 
+======
+---------
 * **Ethereum Foundation RIG ($10,000) Grant**: Analysis of cross-domain CEX DEX arbitrages in the Ethereum ecosystem
 * **dYdX LP Rewards Optimization Grant ($20,000)**: Liquidity providers are incentivized through the LP Rewards pool, which distributes DYDX every epoch based on the scores calculated through the LP Rewards formula. Optimizing this formula to incentivize more efficient liquidity, with tighter spreads and quotes across all markets, will improve the trading experience for everyone on dYdX. 
-* **Hackathons (Combined ~$30,000)**: Crypto.com (1st), ETHGlobal (Top 5 NFT), NUS Fintech Month (2nd), Air Quality in Catalina Data Analysis (2nd), DEX Liquidity Challenge (2nd), NUS Venture Initiation Grant
-* **NUS Merit Scholarship**: Full tuition coverage, annual living allowance and one-time computer allowance for undergraduate studies 
 
-Military/National Service
-======
---------
-
-* **Singapore Armed Force**: Basic Military Training for 3 months <br> 
-* **Singapore Police Force**: Graduated as a commissioned Inspector of Police and posted to Airport Police Division as Assistant Manpower Officer. Received the Commander's Commendation Award for outstanding contributions during the 2018 Trump-Kim Summit. 

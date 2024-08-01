@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Colin Chan"
-  bio              : "MSc Financial Mathematics @ UChicago; BBA, BComp @ NUS"
-  location         : "Chicago, Illinois (United Stats)"
+  bio              : "MSc Financial Mathematics @ UChicago"
+  location         : "Chicago, Illinois (United States)"
   employer         : "University of Chicago"
   email            : "colinchanwh@uchicago.edu" 
 
@@ -158,13 +158,6 @@ kramdown:
 
 
 # Collections
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  Research:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
