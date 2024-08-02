@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m currently a graduate student in Financial Mathematics at the University of Chicago. I recently graduated from the National University of Singapore with a double honors in Business Administration and Computing (IS). My Honors Thesis, "Beyond Borders- Exploring Maximal Extractable Value (“MEV”) and Risks in Cross-Domain CEX-DEX Arbitrage" was advised by Professor Ben Charoenwong and Dr Nicholas Garcia. My interests include fitness, travelling, and reading non-fiction.  <br> <br> 
+Hi! I’m currently a graduate student in Financial Mathematics at the University of Chicago. I recently graduated from the National University of Singapore with a double honors in Business Administration and Computing (IS). My Honors Thesis, "Beyond Borders- Exploring Maximal Extractable Value (“MEV”) and Risks in Cross-Domain CEX-DEX Arbitrage" was advised by Professor Ben Charoenwong and Dr Nicholas Garcia. <br>
+
+Over the past 2 years, I have deployed strategies which actively arbitraged across exchanges and trade based on event and fundamental indicators. These pet projects allowed me to appreciate the significance of liquidity, volatility and the mean reverting process in price movements. <br> 
+
+
 Feel free to reach out and connect over a cup of coffee!
 
 
@@ -81,4 +85,13 @@ Research
 --------
 * **Ethereum Foundation RIG ($10,000) Grant**: Analysis of cross-domain CEX DEX arbitrages in the Ethereum ecosystem
 * **dYdX LP Rewards Optimization Grant ($20,000)**: Liquidity providers are incentivized through the LP Rewards pool, which distributes DYDX every epoch based on the scores calculated through the LP Rewards formula. Optimizing this formula to incentivize more efficient liquidity, with tighter spreads and quotes across all markets, will improve the trading experience for everyone on dYdX. 
+* **dYdX Trading Fees Optimization Grant ($20,000)**: The research studies competitors, strategies, and historical fees on dYdX to determine optimal rates and adjustments that can be made going forward.
 
+
+
+Skills & Interests
+======
+--------
+* **Computing**: Python, React, SQL, Javascript, Solidity
+* **Hobbies**: Fitness, Travelling, Reading non-fiction
+* **Languages**: English (Native), Mandarin (Fluent), Cantonese (Conversational)

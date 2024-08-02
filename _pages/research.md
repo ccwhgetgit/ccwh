@@ -32,7 +32,6 @@ liquidity, improving the overall trading experience. <br/>
 
 More Info: [Grant Information](https://www.dydxgrants.com/grants/lp-rewards-formula-optimization); [Github Repository](https://github.com/ccwhgetgit/dYdX_LPRewardsOpt)
 
-
 **Portfolio Construction (School Project)**
 -----
 This project involves the in-depth analysis of 48 industry portfolios to optimize the risk-return tradeoff. Utilizing the Fama-French Three-Factor Model, this report demonstrates the construction of efficient portfolios, both in-sample and out-of-sample, with a focus on covariance shrinkage techniques and robust matrix estimation.
