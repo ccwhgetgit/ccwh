@@ -60,7 +60,10 @@ Extracurriculars
 * Presented at the Singapore Fintech Festival to mid-career professionals, interested in the blockchain space 
 
 **NUS Zero Waste Testbed Initiative**, Finance Lead
-* Led the initative organized by NUS and South West Community Development Council to create a marketing campaign that succesfully improved recycling contamination rates by 10%. 
+* Led the initative organized by NUS and South West Community Development Council to create a marketing campaign that succesfully improved recycling contamination rates by 10%. Check out our project [RecyClean](https://nus.edu.sg/zerowaste/whats-breaking-recycling-the-culprit-behind-lower-recycling-rates/
+)
+
+
 
 Relevant Courses
 ======
