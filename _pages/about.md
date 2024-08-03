@@ -49,7 +49,9 @@ Military/National Service
 --------
 
 * **Singapore Armed Force**: Basic Military Training for 3 months <br> 
-* **Singapore Police Force**: Graduated as a commissioned Inspector of Police and posted to Airport Police Division as Assistant Manpower Officer. Received the Commander's Commendation Award for outstanding contributions during the 2018 Trump-Kim Summit. 
+* **Singapore Police Force (Training)**: Graduated as a commissioned Inspector of Police; Member of the Guard of Honor Contingent for National Day Parade 2017
+* **Singapore Police Force**: Posted to Airport Police Division as Assistant Manpower Officer. Received the Commander's Commendation Award for outstanding contributions during the 2018 Trump-Kim Summit
+
 
 Extracurriculars
 ======
