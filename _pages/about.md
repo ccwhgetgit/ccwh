@@ -9,8 +9,6 @@ redirect_from:
 
 Hi! I’m currently a graduate student in Financial Mathematics at the University of Chicago. I recently graduated from the National University of Singapore with a double honors in Business Administration and Computing (IS). My Honors Thesis, "Beyond Borders- Exploring Maximal Extractable Value (“MEV”) and Risks in Cross-Domain CEX-DEX Arbitrage" was advised by Professor Ben Charoenwong and Dr Nicholas Garcia. <br>
 
-Over the past 2 years, I have deployed strategies which actively arbitraged across exchanges and trade based on event and fundamental indicators. These pet projects allowed me to appreciate the significance of liquidity, volatility and the mean reverting process in price movements. <br> 
-
 
 Feel free to reach out and connect over a cup of coffee!
 
@@ -61,8 +59,9 @@ Extracurriculars
 --------
 
 **NUS Fintech Society**, Director/Student Advisor
-* Led 73 students to focus on research and development projects * Organized inaugural NUS Fintech Month with over 500 participants, and partnerships with Ripple, 1inch, Bybit, Alphalab, AWS; Aided in fundraising from investors
-* Presented at the Singapore Fintech Festival to mid-career professionals, interested in the blockchain space 
+* Led 73 students to focus on research and development projects
+* Organized inaugural NUS Fintech Month with over 500 participants, and partnerships with Ripple, 1inch, Bybit, Alphalab, AWS; Aided in fundraising from investors
+* Presented at the Singapore Fintech Festival to mid-career professionals on blockchain technologies
 
 **NUS Zero Waste Testbed Initiative**, Finance Lead
 * Led the initative organized by NUS and South West Community Development Council to create a marketing campaign that succesfully improved recycling contamination rates by 10%. Check out our project [RecyClean](https://nus.edu.sg/zerowaste/whats-breaking-recycling-the-culprit-behind-lower-recycling-rates/
