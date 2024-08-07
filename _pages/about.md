@@ -9,8 +9,7 @@ redirect_from:
 
 Hi! I’m currently a graduate student in Financial Mathematics at the University of Chicago. I recently graduated from the National University of Singapore with a double honors in Business Administration and Computing (IS). My Honors Thesis, "Beyond Borders- Exploring Maximal Extractable Value (“MEV”) and Risks in Cross-Domain CEX-DEX Arbitrage" was advised by Professor Ben Charoenwong and Dr Nicholas Garcia. <br>
 
-
-Feel free to reach out and connect over a cup of coffee!
+I particularly enjoy non-fiction books and learning about history. Feel free to reach out and connect over a cup of coffee!
 
 
 Experience
@@ -25,16 +24,17 @@ Experience
 * Designed data pipelines to consume and process data, created bash scripts to deploy automated trading strategies, and enhanced code for monitoring of XRP repurchases across exchanges
 
 **Binance**, Macro Research Analyst Intern
-*	Published research reports on macro trends with a monthly viewership of over 100,000, performed data analysis, and prepared the Institutional Crypto Outlook Survey which involved over 200 global institutional investors 
-*	Monitored market news and led the Monthly Market Insights edition to visualize trends and movements, with macroeconomic signals
+*	Published research reports on macro trends with a monthly viewership of over 100,000, performed data analysis, and prepared the [Institutional Crypto Outlook Survey](https://www.binance.com/en/research/analysis/institutional-crypto-outlook-survey-2023
+) which involved over 200 global institutional investors 
+*	Monitored market news and led the [Monthly Market Insights](https://www.binance.com/en/research/analysis/monthly-market-insights-2023-05) edition to visualize trends and movements, with macroeconomic signals
 
 
 
 **Genesis Global Trading (Subsidiary of Digital Currency Group)**, Trader Intern 
 * Developed real-time analytical tools for OTC trading in Dash to visualize market flows by aggregating liquidity across venues, improving quotes by an average of 10bps
 * Developed bots to detect on-chain activities and scipts to scrape tweets from X for real-time news alerts which were adopted across the firm
-* Created a trade blotter in React for derivatives pricing to asynchronously calculate Greeks, theoretical, current edges for futures and multi-legged options using the Black Scholes model and compare it with the in-house volatility surface
-* Wrote daily market commentaries and an investment pitch to clients (naked long $AVAX which yielded over 20% in a week)
+* Created a trade blotter in React for derivatives pricing to asynchronously calculate Greeks, theoretical, current edges for futures and multi-legged options using the Black-Scholes model and compare it with the in-house volatility surface
+* Wrote daily market commentaries and an investment pitch to clients, which yielded over 20% in a week
 
 
 **Paypal**, Data Modelling Intern 
@@ -73,8 +73,8 @@ Relevant Courses
 ======
 * **DS**: Analytics for Risk Management, Systematic Trading, Data Engineering, Data Analytics 
 * **COM**: ML, Python, SQL, Java, Solidity, Javascript, Data Structures  and Algorithms 
-* **FIN**: Portfolio Construction, Black-Scholes, Fama-French, Fixed Income
-* **MATH**: Probability, Optimization, Regressions, Statistics, Calculus, Stochastic Processes and Modelling
+* **FIN**: Portfolio Management, Options and Derivatives
+* **MATH**: Probability, Optimization, Regressions, Statistics, Calculus, Stochastic Processes and Modelling, Discrete Structures
 
 
 Awards/Competitions
@@ -99,6 +99,7 @@ Research
 Skills & Interests
 ======
 --------
-* **Computing**: Python, React, SQL, Javascript, Solidity
+* **Computing**: Python, React, SQL, Javascript, Solidity, Git, Airflow, React
+* **Activities**: NUS Fintech Society (Director/Advisor), CAPT Kamal to India (Finance Lead), RecyCLEAN ZeroWaste (Finance Lead)
 * **Hobbies**: Fitness, Travelling, Reading non-fiction
 * **Languages**: English (Native), Mandarin (Fluent), Cantonese (Conversational)

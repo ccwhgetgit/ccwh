@@ -8,13 +8,22 @@ author_profile: true
 
 **Covered Interest Parity Deviations of Stablecoins**
 ------
-The market capitalization of stablecoins has surged from US$5 billion in 2019 to over US$180 billion in 2022. These blockchain-based assets emulate traditional currencies with unique stabilizing mechanisms. This study examines the efficacy of stablecoin mechanisms through covered interest parity (CIP), which suggests that interest rate differentials between currencies should align with forward and spot exchange rate differentials. It includes vector autoregression (VAR) models to monitor shocks from the FTX Collapse and USDC depeg; convenience yield theory from the lens of transaction frictions on-chain ('gas') and the influx of liquidity from Binance's USDC-USDT launch. <br/>
+The market capitalization of stablecoins has surged from US$5 billion in 2019 to over US$180 billion in 2022. These blockchain-based assets emulate traditional currencies with unique stabilizing mechanisms. This study examines the efficacy of stablecoin mechanisms through covered interest parity (CIP), which suggests that interest rate differentials between currencies should align with forward and spot exchange rate differentials. It includes vector autoregression (VAR) models to monitor shocks from the FTX Collapse and USDC depeg; convenience yield theory from the lens of transaction frictions on-chain ('gas') and the influx of liquidity from Binance's USDC-USDT launch.
+
+
+
+ <img src="../images/cip.png" alt="CIP" width="600"/>
+
+
 
 More Info: [GitHub Repository](https://github.com/ccwhgetgit/Covered-Interest-Parity-Deviations-Stablecoins)
 
 **Beyond Borders: Exploring Maximal Extractable Value (“MEV”) and Risks in Cross-Domain CEX-DEX Arbitrage**
 ------
-The paper investigates Maximal Extractable Value (MEV) and the associated risks in cross-domain arbitrage between centralized exchanges (CEX) and decentralized exchanges (DEX) on Ethereum. It provides a comprehensive analysis of the opportunities and challenges presented by MEV in the context of cross-domain trading, offering insights into the evolving landscape of the blockspace markets. In particular, over 38 million transactions were analyzed to extract these arbitrages and the value of toxic flow due to the AMM designs were estimated. <br/>
+The paper investigates Maximal Extractable Value (MEV) and the associated risks in cross-domain arbitrage between centralized exchanges (CEX) and decentralized exchanges (DEX) on Ethereum. It provides a comprehensive analysis of the opportunities and challenges presented by MEV in the context of cross-domain trading, offering insights into the evolving landscape of the blockspace markets. In particular, over 38 million transactions were analyzed to extract these arbitrages and the value of toxic flow due to the AMM designs were estimated. 
+
+
+ <img src="../images/cexdex.png" alt="cexdex" width="600"/>
 
 More Info: [Research Post](https://ethresear.ch/t/empirical-analysis-of-cross-domain-cex-dex-arbitrage-on-ethereum/17620); [Github Repository](https://github.com/ccwhgetgit/HonorsThesis)
 
@@ -26,7 +35,9 @@ More Info: [Github Repository](https://github.com/ccwhgetgit/CreditRiskManagemen
 
 **Liquidity Providers' Incentive Program (dYdX)**
 -----
-Liquidity providers are currently incentivised to provide liquidity through the LP Incentives Programme. Based on the various parameters - makerVolume, depths and spreads, they are rewarded accordingly based on their activities. By systematically analyzing the liquidity and trading activities, a series of criteria were introduced to distill the markets - tick sizes, reconstructed orderbooks vs actual liquidity, orderbook resilience during high market impact events (half life estimation).  <br/>
+Liquidity providers are currently incentivised to provide liquidity through the LP Incentives Programme. Based on the various parameters - makerVolume, depths and spreads, they are rewarded accordingly based on their activities. By systematically analyzing the liquidity and trading activities, a series of criteria were introduced to distill the markets - tick sizes, reconstructed orderbooks vs actual liquidity, orderbook resilience during high market impact events (half life estimation). 
+
+ <img src="../images/obvsdata.png" alt="dydx" width="600"/>
 
 
 More Info: [Grant Information](https://www.dydxgrants.com/grants/lp-rewards-formula-optimization); [Github Repository](https://github.com/ccwhgetgit/dYdX_LPRewardsOpt)
