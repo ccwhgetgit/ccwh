@@ -21,7 +21,8 @@ Experience
 
 **Ripple**, Quantitative Trader Intern 
 * Analyzed order books and price data for FX and digital assets for transaction cost analysis to improve execution
-* Designed data pipelines to consume and process data, created bash scripts to deploy automated trading strategies, and enhanced code for monitoring of XRP repurchases across exchanges
+* Led the effort to design data pipelines to consume and process market and trade data
+* Created bash scripts to deploy automated trading strategies, refactoring of the codebase, and enhanced code for monitoring of XRP repurchases across exchanges
 
 **Binance**, Macro Research Analyst Intern
 *	Published research reports on macro trends with a monthly viewership of over 100,000, performed data analysis, and prepared the [Institutional Crypto Outlook Survey](https://www.binance.com/en/research/analysis/institutional-crypto-outlook-survey-2023
@@ -100,7 +101,7 @@ Research
 Skills & Interests
 ======
 --------
-* **Computing**: Python, React, SQL, Javascript, Solidity, Git, Airflow, React
+* **Computing**: Python, React, SQL, Javascript, Solidity, Git, Airflow, PySpark, Hadoop, GraphQL, Flask, Docker, Linux
 * **Activities**: NUS Fintech Society (Director/Advisor), CAPT Kamal to India (Finance Lead), RecyCLEAN ZeroWaste (Finance Lead)
 * **Hobbies**: Fitness, Travelling, Reading non-fiction
 * **Languages**: English (Native), Mandarin (Fluent), Cantonese (Conversational)
