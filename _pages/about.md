@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I’m currently a graduate student in Financial Mathematics at the University of Chicago. I recently graduated from the National University of Singapore with a double honors in Business Administration and Computing (IS). My Honors Thesis, "Beyond Borders- Exploring Maximal Extractable Value (“MEV”) and Risks in Cross-Domain CEX-DEX Arbitrage" was advised by Professor Ben Charoenwong and Dr Nicholas Garcia. <br>
 
-I particularly enjoy non-fiction books and learning about history. Feel free to reach out and connect over a cup of coffee!
+I particularly enjoy non-fiction books and learning about history. I am currently seeking summer 2025 internships in quantitative finance-related roles, especially in the fixed-income and equities space. Feel free to reach out and connect over a cup of coffee!
 
 
 Experience
@@ -28,7 +28,8 @@ Experience
 ) which involved over 200 global institutional investors 
 *	Monitored market news and led the [Monthly Market Insights](https://www.binance.com/en/research/analysis/monthly-market-insights-2023-05) edition to visualize trends and movements, with macroeconomic signals
 
-
+**National University of Singapore**, Graduate Teaching Assistant 
+* FT5004 Programming for Blockchain Applications, FT5003 Blockchain Innovations
 
 **Genesis Global Trading (Subsidiary of Digital Currency Group)**, Trader Intern 
 * Developed real-time analytical tools for OTC trading in Dash to visualize market flows by aggregating liquidity across venues, improving quotes by an average of 10bps
