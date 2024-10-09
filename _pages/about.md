@@ -15,6 +15,11 @@ I particularly enjoy non-fiction books and learning about history. I am currentl
 Experience
 ======
 --------
+**Neuberger Berman**, Quantitative Researcher - Project Lab (Upcoming)
+* Fixed Income Tactical Asset Allocation 
+
+
+
 **Chaos Labs**, Economics & Risk Researcher 
 * Back-tested the robustness of price oracles using historical data, statistically evaluated compositions using the Granger-Causality and ADF tests
 * Conducted Monte Carlo simulations based on historical trade sizes, price trajectories and agent behavior to improve mechanism designs for trading and liquidations
