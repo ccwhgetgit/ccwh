@@ -15,7 +15,7 @@ I particularly enjoy non-fiction books and learning about history. I am currentl
 Experience
 ======
 --------
-**Neuberger Berman**, Quantitative Researcher - Project Lab (Upcoming)
+**Neuberger Berman**, Quantitative Researcher - University of Chicago Project Lab (Incoming)
 * Fixed Income Tactical Asset Allocation 
 
 
