@@ -9,16 +9,17 @@ redirect_from:
 
 Hi! I’m currently a graduate student in Financial Mathematics at the University of Chicago. I recently graduated from the National University of Singapore with a double honors in Business Administration and Computing (IS).  <br>
 
-I particularly enjoy non-fiction books and learning about history. I am currently seeking summer 2025 internships in quantitative finance-related roles, especially in the fixed-income and equities space. Feel free to reach out and connect over a cup of coffee!
+I particularly enjoy non-fiction books and learning about history. Feel free to reach out and connect over a cup of coffee!
 
 
 Experience
 ======
 --------
-**Neuberger Berman**, Quantitative Researcher - University of Chicago Project Lab (Incoming)
-* Fixed Income Tactical Asset Allocation 
+**Galaxy Digital**, Trader Intern (Incoming)
+* OTC Derivatives, Prop Trading (Equities, ETFs etc)
 
-
+**Neuberger Berman**, Quantitative Researcher - University of Chicago Project Lab 
+* Fixed Income Tactical Asset Allocation - Position Sizing and Portfolio Management
 
 **Chaos Labs**, Economics & Risk Researcher 
 * Back-tested the robustness of price oracles using historical data, statistically evaluated compositions using the Granger-Causality and ADF tests
