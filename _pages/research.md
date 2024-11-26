@@ -21,7 +21,7 @@ More Info: [GitHub Repository](https://github.com/ccwhgetgit/Covered-Interest-Pa
 **Beyond Borders: Exploring Maximal Extractable Value (“MEV”) and Risks in Cross-Domain CEX-DEX Arbitrage**
 ------
 The paper investigates Maximal Extractable Value (MEV) and the associated risks in cross-domain arbitrage between centralized exchanges (CEX) and decentralized exchanges (DEX) on Ethereum. It provides a comprehensive analysis of the opportunities and challenges presented by MEV in the context of cross-domain trading, offering insights into the evolving landscape of the blockspace markets. In particular, over 38 million transactions were analyzed to extract these arbitrages and the value of toxic flow due to the AMM designs were estimated. 
-
+* Accepted for UBRI 2024 @ ETH Zurich
 
  <img src="../images/cexdex.png" alt="cexdex" width="600"/>
 
