@@ -19,7 +19,8 @@ Experience
 * OTC Derivatives, Prop Trading (Equities, ETFs etc)
 
 **Neuberger Berman**, Quantitative Researcher - University of Chicago Project Lab 
-* Fixed Income Tactical Asset Allocation - Position Sizing and Portfolio Management
+* Fixed Income Tactical Asset Allocation - Enhanced Portfolio Optimization using anchors and constraints, ML techniques (i.e. NNs and XG Boost) on macro data for signal generation
+* Equity Brinson Attribution 
 
 **Chaos Labs**, Economics & Risk Researcher 
 * Back-tested the robustness of price oracles using historical data, statistically evaluated compositions using the Granger-Causality and ADF tests
