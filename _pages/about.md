@@ -15,7 +15,7 @@ I particularly enjoy non-fiction books and learning about history. Feel free to 
 Experience
 ======
 --------
-**Galaxy Digital**, Trader Intern (Incoming)
+**Galaxy Digital**, Trader Intern 
 * OTC Derivatives, Prop Trading (Equities, ETFs etc)
 
 **Neuberger Berman**, Quantitative Researcher - University of Chicago Project Lab 
@@ -54,13 +54,13 @@ Experience
 * Created data pipelines and investment theses for discretionary trading and investments
 
 
-Military/National Service
+<!-- Military/National Service
 ======
 --------
 
 * **Singapore Armed Force**: Basic Military Training for 3 months <br> 
 * **Singapore Police Force (Training)**: Graduated as a commissioned Inspector of Police; Member of the Guard of Honor Contingent for National Day Parade 2017
-* **Singapore Police Force**: Posted to Airport Police Division as Assistant Manpower Officer. Received the Commander's Commendation Award for outstanding contributions during the 2018 Trump-Kim Summit
+* **Singapore Police Force**: Posted to Airport Police Division as Assistant Manpower Officer. Received the Commander's Commendation Award for outstanding contributions during the 2018 Trump-Kim Summit -->
 
 
 Extracurriculars
