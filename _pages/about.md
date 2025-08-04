@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m currently a graduate student in Financial Mathematics at the University of Chicago. I recently graduated from the National University of Singapore with a double honors in Business Administration and Computing (IS).  <br>
-
+Hi! I’m currently a student in Financial Mathematics at the University of Chicago. 
 I particularly enjoy non-fiction books and learning about history. Feel free to reach out and connect over a cup of coffee!
 
 
@@ -36,8 +35,6 @@ Experience
 ) which involved over 200 global institutional investors 
 *	Monitored market news and led the [Monthly Market Insights](https://www.binance.com/en/research/analysis/monthly-market-insights-2023-05) edition to visualize trends and movements, with macroeconomic signals
 
-**National University of Singapore**, Teaching Assistant 
-* FT5004 Programming for Blockchain Applications, FT5003 Blockchain Innovations
 
 **Genesis Global Trading (Subsidiary of Digital Currency Group)**, Trader Intern 
 * Developed real-time analytical tools for OTC trading in Dash to visualize market flows by aggregating liquidity across venues, improving quotes by an average of 10bps
@@ -63,19 +60,6 @@ Experience
 * **Singapore Police Force**: Posted to Airport Police Division as Assistant Manpower Officer. Received the Commander's Commendation Award for outstanding contributions during the 2018 Trump-Kim Summit -->
 
 
-Extracurriculars
-======
---------
-
-**NUS Fintech Society**, Director/Student Advisor
-* Led 73 students to focus on research and development projects
-* Organized inaugural NUS Fintech Month with over 500 participants, and partnerships with Ripple, 1inch, Bybit, Alphalab, AWS; Aided in fundraising from investors
-* Presented at the Singapore Fintech Festival to mid-career professionals on blockchain technologies
-
-**NUS Zero Waste Testbed Initiative**, Finance Lead
-* Led the initative organized by NUS and South West Community Development Council to create a marketing campaign that succesfully improved recycling contamination rates by 10%. Check out our project [RecyClean](https://nus.edu.sg/zerowaste/whats-breaking-recycling-the-culprit-behind-lower-recycling-rates/
-)
-
 
 
 Relevant Courses
@@ -89,10 +73,8 @@ Relevant Courses
 Awards/Competitions
 ======
 --------
-* **NUS Merit Scholarship**: Full tuition coverage, annual living allowance and one-time computer allowance for undergraduate studies 
+* **Merit Scholarship**: Full tuition coverage, annual living allowance and one-time computer allowance for undergraduate studies 
 * **Beta Gamma Sigma Honors Society**: Dean's List for 3 semesters
-* **Top Student for Information Technology in Financial Services**: Outstanding performance and placed among the top students
-* **Distinctions in Computing Focus Areas and Specialisation**: Received a grade of > 4.50 for 2 Computing Focus Areas and Distinction in Financial Technologies Specialisation
 * **Hackathons (Combined ~$30,000)**: Crypto.com (1st), ETHGlobal (Top 5 NFT), NUS Fintech Month (2nd), Air Quality in Catalina Data Analysis (2nd), DEX Liquidity Challenge (2nd), NUS Venture Initiation Grant
 
 
