@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 
+**Urgency-Premium Pricing and Batch Auctions - A Dual-Lane Mechanism for AMM-Based Prediction Markets**
+------
+
+Prediction makers offer a compelling vision for decentralized forecasting, yet they struggle with issues of liquidity, price accuracy, and front-running. This paper proposes a novel dual-lane mech- anism designed to enhance the efficiency and robustness of such markets: Urgency-Premium Pricing and Batch Auctions. The urgency premium lane allows users to execute trades immediately by paying a dynamically determined premium, ensuring prompt execution for time sensitive information. Simultaneously, the batch auctions lane periodically processes a collection of trades at an aggregated price, mitigating the impact of toxic flows for liquidity providers. Through an initial theoretic analysis, I demonstrate that this mechanism creates a more resilient and user-friendly prediction market environment that balances the economic incentives of both traders and liquidity providers.
+
+
+ <img src="../images/predictionmarkets.png" alt="predictionmarkets" width="600"/>
+
+
 **Covered Interest Parity Deviations of Stablecoins**
 ------
 The market capitalization of stablecoins has surged from US$5 billion in 2019 to over US$180 billion in 2022. These blockchain-based assets emulate traditional currencies with unique stabilizing mechanisms. This study examines the efficacy of stablecoin mechanisms through covered interest parity (CIP), which suggests that interest rate differentials between currencies should align with forward and spot exchange rate differentials. It includes vector autoregression (VAR) models to monitor shocks from the FTX Collapse and USDC depeg; convenience yield theory from the lens of transaction frictions on-chain ('gas') and the influx of liquidity from Binance's USDC-USDT launch.
