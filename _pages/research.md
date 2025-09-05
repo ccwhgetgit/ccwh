@@ -11,6 +11,8 @@ author_profile: true
 
 Prediction makers offer a compelling vision for decentralized forecasting, yet they struggle with issues of liquidity, price accuracy, and front-running. This paper proposes a novel dual-lane mech- anism designed to enhance the efficiency and robustness of such markets: Urgency-Premium Pricing and Batch Auctions. The urgency premium lane allows users to execute trades immediately by paying a dynamically determined premium, ensuring prompt execution for time sensitive information. Simultaneously, the batch auctions lane periodically processes a collection of trades at an aggregated price, mitigating the impact of toxic flows for liquidity providers. Through an initial theoretic analysis, I demonstrate that this mechanism creates a more resilient and user-friendly prediction market environment that balances the economic incentives of both traders and liquidity providers.
 
+** This was a term paper for Market Design Class (PhD) by Prof Eric Budish and Prof Jacob Leshno.
+
 
  <img src="../images/predictionmarkets.png" alt="predictionmarkets" width="600"/>
 
